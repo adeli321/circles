@@ -28,6 +28,7 @@ Date date = new Date();%>
 <%=date%></p
         <hr>
         <h2>D3 Examples</h2>
+        <p>anthony was here :)</p>
         <p>Not all examples ate available at the moment</p>
         <ul>
         <% for (int i=1;i<15;i++){ %>
